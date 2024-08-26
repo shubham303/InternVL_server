@@ -1,0 +1,13 @@
+torch
+torchvision
+transformers==4.37.2
+timm
+einops
+accelerate
+bitsandbytes
+sentencepiece
+decord
+fastapi
+ray[serve]
+pydantic
+uvicorn
